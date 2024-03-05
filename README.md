@@ -14,7 +14,7 @@ Additionally, we look at the data types of each column.
 ### Level 1
 At this stage, data cleaning has already begun. Initially, a graph was generated using the **Plotly** library to visualize the percentage of NaN data in each column.
 
-![NaN Values PCT Img](https://github.com/Guilherme-PS/Coursera-DataSet-Cleaning/assets/114042039/a6645d3c-a6e6-4613-a34d-f3f1c7d5b65e)
+![NaN Values PCT IMG](https://github.com/Guilherme-PS/Coursera-DataSet-Cleaning/assets/114042039/b0b48700-8682-4748-bae5-8044d4d6780c)
 
 Subsequently, the “What you will learn” column was eliminated due to its high percentage of 48% NaN values. Similarly, the "Programming" column was eliminated because it only contained a single value across all entries, and the "Skill Gain" column was removed because it predominantly stored empty Python lists.
 
